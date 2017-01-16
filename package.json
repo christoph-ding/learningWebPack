@@ -1,0 +1,19 @@
+{
+  "name": "learn-web-pack",
+  "version": "1.0.0",
+  "description": "Learning how to use and configure web pack.",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ironpup/learningWebPack.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ironpup/learningWebPack/issues"
+  },
+  "homepage": "https://github.com/ironpup/learningWebPack#readme"
+}
